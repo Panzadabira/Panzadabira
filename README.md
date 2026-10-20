@@ -46,7 +46,7 @@ Know what is in your project before you change it. PanzaScope finds unused scrip
 | Domain | Core Technologies & Focus |
 | :--- | :--- |
 | **Game Development** | Unity, C#, UI Toolkit, ScriptableObject-driven architecture |
-| **Automation & AI** | Python, Multi-agent AI systems (*The Panza Agency*), Local LLMs |
+| **Automation & AI** | Python, AI coding assistants in my workflow, Local LLMs, multi-agent experiments |
 | **Architecture** | Static Analysis, Context Compression for LLMs (*Eco-Scan protocol*) |
 
 ---
