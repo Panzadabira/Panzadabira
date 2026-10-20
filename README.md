@@ -10,7 +10,7 @@
 # Hi, I'm Jonathan Barenco (Panzadabira) 
 
 **Indie Game Developer & Founder of Panza Labs**
-> *I build tools that remove the friction from game development, specializing in LLM-driven architectural analysis and automated workflows.*
+> *I build tools that remove the friction from game development, specializing in static analysis and automated workflows.*
 
 ---
 
@@ -27,15 +27,15 @@ My products aren't just theoretical; they are forged in the trenches of my own g
 ---
 
 ##  Flagship Product: PanzaScope
-**Universal Polyglot Static Analysis & Architectural Mapping Engine**
+**Project Audit & Architecture Mapping for Unity**
 
-Stop feeding raw scripts to your LLMs. PanzaScope visualizes complex dependencies in milliseconds and extracts logic-stripped JSON blueprints, preventing context window saturation and token waste.
+Know what is in your project before you change it. PanzaScope finds unused scripts, event subscriptions that are never undone, dependency cycles and the rename risks hidden in your scenes and prefabs, and shows your architecture on an interactive map.
 
+*  **PanzaScope (Unity Extension):** Native C# / UI Toolkit Editor tool: one readable audit report, an Unused Scripts window with a safe move-to-Trash workflow, an interactive map, and Markdown / JSON reports that you or an AI assistant can read.
 *  **PanzaScope (Engine):** Open-source static analysis engine for polyglot codebases (Python / Standalone).
-*  **PanzaScope (Unity Extension):** Native C# / UI Toolkit integration for professional Unity pipelines with Hot-Reload and Inspector Ping.
 
 <p align="left">
-  <a href="https://assetstore.unity.com/packages/tools/utilities/panzascope-ai-dependency-mapper-380466"><img src="https://img.shields.io/badge/Get_for_Unity_(42_CHF)-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Asset Store"></a>
+  <a href="https://assetstore.unity.com/packages/tools/utilities/panzascope-ai-dependency-mapper-380466"><img src="https://img.shields.io/badge/Get_for_Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Asset Store"></a>
   <a href="https://github.com/Panzadabira/PanzaScope"><img src="https://img.shields.io/badge/Explore_Open_Source_Core-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"></a>
 </p>
 
